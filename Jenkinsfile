@@ -1,2 +1,2 @@
 @Library('chioma-shared-library') _
-chiomaApp 'https://github.com/carubaleze/chiomatestapp1.git'
+chiomaApp 'https://github.com/carubaleze/chiomatestapp2.git'
